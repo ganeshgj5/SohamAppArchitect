@@ -1,0 +1,43 @@
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+h1 {
+    text-align: center;
+    }
+    
+.content-table {
+        margin-left: auto;
+        margin-right: auto;
+        height: 80% ;
+        width:80%;
+    }
+    
+
+.headings{
+    background-color: blue;
+    color:white;
+    text-align:left;
+
+}
+
+.theme{
+text-align: left;
+}
+
+.type1{ border:0px;
+background-color:lightgray;
+text-align: right
+}
+
+.type2{
+    background-color:white;
+    text-align: right
+}
+
+.tfoot{
+column:;
+}
+
